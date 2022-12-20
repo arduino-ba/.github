@@ -7,5 +7,5 @@ Therefore, core features and ideas are discussed in this book to leverage differ
 <!--
 * :beginner: [Get the Book]()
 -->
-* :beginner: Get [code samples](https://github.com/arduino-ba/samples).
+* :beginner: Get [examples](https://github.com/arduino-ba/examples).
 * :beginner: Connect with author on [LinkedIn](https://www.linkedin.com/in/usa-m/) and [Twitter](https://twitter.com/usama_inn).
