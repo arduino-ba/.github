@@ -12,5 +12,5 @@ Therefore, core features and ideas are discussed in this book to leverage differ
 
 
 * :beginner: Get the book at [Kindle](https://www.amazon.com/dp/B0BRQTT1D2).
-* :beginner: Get [examples](https://github.com/arduino-ba/examples).
+* :beginner: [Checkout](https://github.com/arduino-ba/examples) or download examples as a [ZIP file](https://github.com/arduino-ba/examples/archive/refs/heads/master.zip).
 * :beginner: Connect with the author at [LinkedIn](https://www.linkedin.com/in/usa-m/) and [Twitter](https://twitter.com/usama_inn).
