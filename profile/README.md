@@ -4,7 +4,7 @@ Starting up as a beginner can be a daunting challenge with so much of knowledge 
 
 
 <p align="center">
-  <image width="75%" src="https://github.com/arduino-ba/.github/blob/main/profile/.images/Book%20Cover%20Side.jpg" alt="Arduino - Beginner to Advanced" />
+  <image width="70%" src="https://github.com/arduino-ba/.github/blob/main/profile/.images/Book%20Cover%20Side.jpg" alt="Arduino - Beginner to Advanced" />
 </p>
 
 
