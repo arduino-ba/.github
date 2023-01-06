@@ -2,7 +2,11 @@
 
 Starting up as a beginner can be a daunting challenge with so much of knowledge to grab and so many concepts to learn. This especially is true when both Hardware and Software or Firmware are involved. Soon enough, people find themselves where scalability and maintainability become issues which hinder with product feature upgrades.
 
-![Arduino - Beginner to Advanced](./.images/Book%20Cover%20Side.jpg)
+
+<p align="center">
+  <image width="75%" src="./.images/Book%20Cover%20Side.jpg" alt="Arduino - Beginner to Advanced" />
+</p>
+
 
 Therefore, core features and ideas are discussed in this book to leverage different concepts already existing in programming and can surely help with Hardware projects.
 
