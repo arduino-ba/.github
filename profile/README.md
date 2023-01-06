@@ -11,6 +11,6 @@ Starting up as a beginner can be a daunting challenge with so much of knowledge 
 Therefore, core features and ideas are discussed in this book to leverage different concepts already existing in programming and can surely help with Hardware projects.
 
 
-* :beginner: Get the book at [Kindle](https://www.amazon.com/dp/B0BRQTT1D2)
+* :beginner: Get the book at [Kindle](https://www.amazon.com/dp/B0BRQTT1D2).
 * :beginner: Get [examples](https://github.com/arduino-ba/examples).
-* :beginner: Connect with the author on [LinkedIn](https://www.linkedin.com/in/usa-m/) and [Twitter](https://twitter.com/usama_inn).
+* :beginner: Connect with the author at [LinkedIn](https://www.linkedin.com/in/usa-m/) and [Twitter](https://twitter.com/usama_inn).
