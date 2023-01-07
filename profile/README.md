@@ -8,7 +8,7 @@ Starting up as a beginner can be a daunting challenge with so much of knowledge 
 </p>
 
 
-Therefore, core features and ideas are discussed in this book to leverage different concepts already existing in programming and can surely help with Hardware projects.
+Core features and ideas are discussed in this book to leverage different concepts already existing in programming and can surely help with Hardware projects.
 
 
 * :beginner: Get the book at [Kindle](https://www.amazon.com/dp/B0BRQTT1D2) or [Paperback](https://www.amazon.com/dp/B0BRLVR3X4).
