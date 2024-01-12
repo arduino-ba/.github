@@ -8,7 +8,7 @@ Starting-up as a beginner with modern technologies can be daunting with so much 
 </p>
 
 
-Core features and ideas that are discussed within this book are to leverage various concepts that are already existing in programming paradigm and can surely help with Hardware-centric projects.
+Core features and ideas that are discussed within this book are to leverage various concepts that are already existing in the programming paradigm and can surely help with Hardware-centric projects.
 
 
 * :beginner: Get the book at [Kindle](https://www.amazon.com/dp/B0BRQTT1D2) or [Paperback](https://www.amazon.com/dp/B0BRLVR3X4).
