@@ -1,6 +1,6 @@
 ## Arduino - Beginner to Advanced
 
-Starting-up as a beginner with modern technologies can be daunting with so much knowledge to grab and so many concepts to learn. This especially is true when both Hardware and Software (or Firmware) are involved. Soon enough, many individuals find themselves at spots in learning arena where scalability and maintainability become issues which hinder with feature development and upgrades.
+Starting-up with modern technologies as a beginner can be daunting that too with so much knowledge to grasp and so many concepts to learn. This especially is true when both Hardware and Software (or Firmware) concepts are involved. It is observed that soon enough, many individuals find themselves at spots in the learning arena where scalability and maintainability become issues which hinder with feature development and upgrades.
 
 
 <p align="center">
